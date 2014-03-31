@@ -3,7 +3,7 @@ Contributors: simenschi
 Tags: instagram, json, shortcode
 Requires at least: 3.0.1
 Tested up to: 3.8.1
-Stable tag: 0.1
+Stable tag: 0.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,3 +35,6 @@ Displays a list of Instagram images from a specific user using a Wordpress short
 
 = 0.2 =
 Changes in the description
+
+= 0.1 =
+Wrote the plugin
