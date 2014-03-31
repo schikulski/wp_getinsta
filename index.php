@@ -3,7 +3,7 @@
 Plugin Name: GetInsta - Instagram Shortcode
 Plugin URI: http://www.joss.as
 Description: Gets instagram content from shortcode. <br> Usage: [getinsta howmany="HOWMANYIMAGES" userid="YOURUSERID" client_id="YOURCLIENTID"]
-Version: 0.1
+Version: 0.2
 Author: Simen Schikulski
 Author URI: http://www.joss.as
 License: GPLv2
